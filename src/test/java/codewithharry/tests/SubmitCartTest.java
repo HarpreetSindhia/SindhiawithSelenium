@@ -156,6 +156,8 @@ import codewithharry.pageObjects.ProductCatalogue;
 		
 	}
 
+// Revise Bulilding the Framework again using Page Object Model.
+
 	
 	//For multiple parameter values HashMap is recommended .
 	
